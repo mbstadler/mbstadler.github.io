@@ -13,6 +13,8 @@ about:
       href: https://www.sib.swiss/michael-stadler-group
     - text: '<i class="fa-brands fa-orcid"></i> ORCiD'
       href: https://orcid.org/0000-0002-2269-4934
+    - text: '<i class="fa-brands fa-google-scholar"></i> Google Scholar'
+      href: https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en
     - icon: github
       text: Github (personal)
       href: https://github.com/mbstadler
@@ -24,15 +26,9 @@ about:
     - icon: mastodon
       text: mastodon
       href: https://fosstodon.org/@mbstadler
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/michael-stadler-5050b972/
-    - icon: envelope
-      text: Email
-      href: mailto:michael.stadler@fmi.ch
 ---
 
 ```{r setup, include=FALSE}

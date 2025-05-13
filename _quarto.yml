@@ -17,16 +17,16 @@ website:
     right:
       - href: about.qmd
         text: About
-      - text: '<i class="fa-brands fa-bluesky"></i>'
-        href: https://bsky.app/profile/mbstadler.bsky.social
       - text: '<i class="fa-brands fa-orcid"></i>'
         href: https://orcid.org/0000-0002-2269-4934
+      - text: '<i class="fa-brands fa-google-scholar"></i>'
+        href: https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en
       - icon: github
         href: https://github.com/mbstadler
+      - text: '<i class="fa-brands fa-bluesky"></i>'
+        href: https://bsky.app/profile/mbstadler.bsky.social
       - icon: mastodon
         href: https://fosstodon.org/@mbstadler
-      - icon: google
-        href: https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en
       - icon: linkedin
         href: https://www.linkedin.com/in/michael-stadler-5050b972/
 
