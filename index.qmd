@@ -1,0 +1,52 @@
+---
+title: "Michael Stadler"
+image: images/mstadler.jpg
+toc: false
+about:
+    template: trestles
+    image-width: 15em
+    image-shape: rounded
+    links:
+    - text: FMI
+      href: https://www.fmi.ch/platforms/platform.html?plt=115
+    - text: SIB
+      href: https://www.sib.swiss/michael-stadler-group
+    - text: '<i class="fa-brands fa-orcid"></i> ORCiD'
+      href: https://orcid.org/0000-0002-2269-4934
+    - icon: github
+      text: Github (personal)
+      href: https://github.com/mbstadler
+    - icon: github
+      text: Github (group)
+      href: https://github.com/fmicompbio
+    - text: '<i class="fa-brands fa-bluesky"></i> Bluesky'
+      href: https://bsky.app/profile/mbstadler.bsky.social
+    - icon: mastodon
+      text: mastodon
+      href: https://fosstodon.org/@mbstadler
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/michael-stadler-5050b972/
+    - icon: envelope
+      text: Email
+      href: mailto:michael.stadler@fmi.ch
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+## Biography
+
+A Swiss native, Michael Stadler holds master’s degrees in Immunology and Bioinformatics from the Universities of Bern and Lausanne. He earned his PhD at the Insel Hospital in Bern, specializing in computational immunology, before pursuing postdoctoral research at MIT in Boston, USA, where he explored alternative splicing. In 2006, he joined the FMI to establish the Computational Biology Platform, and since 2011, he is also an SIB group leader. Outside of work, Michael enjoys hiking, snow sports, and immersing himself in science fiction novels and the music of the ’60s and ’70s.
+
+## Research
+
+Michael applies computational methods to analyze and interpret high-throughput biological data. He also develops software tools for this purpose, and is particularly interested in studying gene expression using single-cell and single-molecule sequencing data.
+
+## Contact
+
+<i class="fa-solid fa-envelope"></i> michael.stadler (at) fmi.ch

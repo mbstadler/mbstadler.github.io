@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+pagetitle: "{{< meta title >}} | Michael Stadler"
+author-meta: "Michael Stadler"
+
+website:
+  title: "Michael Stadler"
+  description: "Michael Stadler is the head of the FMI Computational Biology group and a group leader of the Swiss Institute of Bioinformatics."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: courses.qmd
+        text: Courses
+    right:
+      - href: about.qmd
+        text: About
+      - text: '<i class="fa-brands fa-bluesky"></i>'
+        href: https://bsky.app/profile/mbstadler.bsky.social
+      - text: '<i class="fa-brands fa-orcid"></i>'
+        href: https://orcid.org/0000-0002-2269-4934
+      - icon: github
+        href: https://github.com/mbstadler
+      - icon: mastodon
+        href: https://fosstodon.org/@mbstadler
+      - icon: google
+        href: https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en
+      - icon: linkedin
+        href: https://www.linkedin.com/in/michael-stadler-5050b972/
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: source
+
+

@@ -1,0 +1,14 @@
+---
+title: "About"
+draft: true
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+## Further links
+
+-   [Tools and data](https://fmicompbio.github.io){target="_blank"}
+-   [FMI group page](https://www.fmi.ch/platforms/platform.html?plt=115){target="_blank"}
+-   [SIB group page](https://www.sib.swiss/michael-stadler-group){target="_blank"}
