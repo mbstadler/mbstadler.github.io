@@ -7,16 +7,11 @@ about:
     image-width: 15em
     image-shape: rounded
     links:
-    - text: FMI
-      href: https://www.fmi.ch/platforms/platform.html?plt=115
-    - text: SIB
-      href: https://www.sib.swiss/michael-stadler-group
     - text: '<i class="fa-brands fa-orcid"></i>'
       href: https://orcid.org/0000-0002-2269-4934
     - text: '<i class="fa-brands fa-google-scholar"></i>'
       href: https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en
     - icon: github
-      text: personal
       href: https://github.com/mbstadler
     - icon: github
       text: group
@@ -40,6 +35,12 @@ A Swiss native, Michael Stadler holds master’s degrees in Immunology and Bioin
 ## Research
 
 Michael applies computational methods to analyze and interpret high-throughput biological data. He also develops software tools for this purpose, and is particularly interested in studying gene expression using single-cell and single-molecule sequencing data.
+
+## Links
+
+- [FMI group page](https://www.fmi.ch/platforms/platform.html?plt=115){target="_blank"}
+- [SIB group page](https://www.sib.swiss/michael-stadler-group){target="_blank"}
+- [Tools and data](https://fmicompbio.github.io){target="_blank"}
 
 ## Contact
 
