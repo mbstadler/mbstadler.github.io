@@ -11,23 +11,21 @@ about:
       href: https://www.fmi.ch/platforms/platform.html?plt=115
     - text: SIB
       href: https://www.sib.swiss/michael-stadler-group
-    - text: '<i class="fa-brands fa-orcid"></i> ORCiD'
+    - text: '<i class="fa-brands fa-orcid"></i>'
       href: https://orcid.org/0000-0002-2269-4934
-    - text: '<i class="fa-brands fa-google-scholar"></i> Google Scholar'
+    - text: '<i class="fa-brands fa-google-scholar"></i>'
       href: https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en
     - icon: github
-      text: Github (personal)
+      text: personal
       href: https://github.com/mbstadler
     - icon: github
-      text: Github (group)
+      text: group
       href: https://github.com/fmicompbio
-    - text: '<i class="fa-brands fa-bluesky"></i> Bluesky'
+    - text: '<i class="fa-brands fa-bluesky"></i>'
       href: https://bsky.app/profile/mbstadler.bsky.social
     - icon: mastodon
-      text: mastodon
       href: https://fosstodon.org/@mbstadler
     - icon: linkedin
-      text: LinkedIn
       href: https://www.linkedin.com/in/michael-stadler-5050b972/
 ---
 
