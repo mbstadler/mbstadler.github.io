@@ -33,10 +33,10 @@ Michael applies computational methods to analyze and interpret high-throughput b
 
 ## Links
 
-- <i class="fa-solid fa-building-columns"></i> [FMI group page](https://www.fmi.ch/platforms/platform.html?plt=115){target="_blank"}
-- <i class="fa-solid fa-people-group"></i> [SIB group page](https://www.sib.swiss/michael-stadler-group){target="_blank"}
-- <i class="fa-brands fa-github"></i> [Tools and data](https://fmicompbio.github.io){target="_blank"}
-- <i class="fa-brands fa-google-scholar"></i> [Publications (Google scholar)](https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en){target="_blank"}
+<i class="fa-solid fa-building-columns" style="margin-right: 0.4em;"></i> [FMI group page](https://www.fmi.ch/platforms/platform.html?plt=115){target="_blank"}<br>
+<i class="fa-solid fa-people-group" style="margin-right: 0.3em;"></i> [SIB group page](https://www.sib.swiss/michael-stadler-group){target="_blank"}<br>
+<i class="fa-brands fa-github" style="margin-right: 0.4em;"></i> [Tools and data](https://fmicompbio.github.io){target="_blank"}<br>
+<i class="fa-brands fa-google-scholar" style="margin-right: 0.4em;"></i> [Publications (Google scholar)](https://scholar.google.com/citations?user=UAcx9iMAAAAJ&hl=en){target="_blank"}<br>
 
 ## Contact
 
