@@ -25,7 +25,7 @@
     "href": "index.html#links",
     "title": "Michael Stadler",
     "section": "Links",
-    "text": "Links\n\nFMI group page\nSIB group page\nTools and data"
+    "text": "Links\n\n FMI group page\n SIB group page\n Tools and data\n Publications (Google scholar)"
   },
   {
     "objectID": "index.html#contact",
@@ -33,5 +33,19 @@
     "title": "Michael Stadler",
     "section": "Contact",
     "text": "Contact\n michael.stadler (at) fmi.ch"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Tools and data\nFMI group page\nSIB group page"
+  },
+  {
+    "objectID": "about.html#further-links",
+    "href": "about.html#further-links",
+    "title": "About",
+    "section": "",
+    "text": "Tools and data\nFMI group page\nSIB group page"
   }
 ]
