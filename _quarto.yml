@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 
-pagetitle: "{{< meta title >}} | Michael Stadler"
+# pagetitle: "{{< meta title >}} | Michael Stadler"
 author-meta: "Michael Stadler"
 
 website:
